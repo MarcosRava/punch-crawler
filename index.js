@@ -1,4 +1,5 @@
 var download = require('./download-manager.js');
+var extend = require('extend');
 var fs = require('fs');
 var config = require('./config.js');
 var queue = [];
@@ -10,7 +11,13 @@ var login = config.login;
 var pwd = config.password;
 var loginForm = {login: login, senha: pwd, B1: "Entrar"};
 var data = require('./data');
+var EPISODES_FILE = config.episodesFiles;
 var DOWNLOAD_DIR = config.downloadDir;
+
+try {
+  extend(true, data, require(EPISODES_FILE));
+} catch (e) {}
+
 
 function getListAnimeById(id, resolution, type, callback) {
   type = type || 'episodios';
@@ -62,10 +69,6 @@ function doLoginCallback(err, _data) {
   var animeId = keys[j];
   var types = ['episodios', 'filmes', 'ovas'];
   var reso = ['eps', 'movies', 'ovas'];
-  for (var r in reso) {
-    t = r;
-    if (data[animeId][reso[r]]) break;
-  }
   var type = types[t];
   var resolution = data[animeId].reso[reso[t]];
 
@@ -103,7 +106,7 @@ function doLoginCallback(err, _data) {
           var downloadUrl = url + body[queue[qi].episode.id] + '/';
           var downloadAnime =  queue[qi].anime;
           var episodeNumber = queue[qi].episode.number;
-          download(downloadUrl, downloadAnime, episodeNumber, DOWNLOAD_DIR, downloadCallback);
+          download(downloadUrl, downloadAnime, episodeNumber, DOWNLOAD_DIR, data, downloadCallback);
         });
         return;
       }
@@ -128,24 +131,24 @@ function doLoginCallback(err, _data) {
       var downloadUrl = url + body[queue[qi].episode.id] + '/';
       var downloadAnime =  queue[qi].anime;
       var episodeNumber = queue[qi].episode.number;
-      download(downloadUrl, downloadAnime, episodeNumber, DOWNLOAD_DIR, downloadCallback);
+      download(downloadUrl, downloadAnime, episodeNumber, DOWNLOAD_DIR, data, downloadCallback);
     });
   }
 }
 
 process.on('uncaughtException', function (err) {
   console.log("writing...");
-  fs.writeFileSync('./data.json', JSON.stringify(data, null, 2));
+  fs.writeFileSync(EPISODES_FILE, JSON.stringify(data, null, 2));
   throw err;
 });
 
 process.on('exit', function (err) {
   console.log("writing...");
-  fs.writeFileSync('./data.json', JSON.stringify(data, null, 2));
+  fs.writeFileSync(EPISODES_FILE, JSON.stringify(data, null, 2));
 });
 
 process.on('SIGINT', function () {
   console.log("writing...");
-  fs.writeFileSync('./data.json', JSON.stringify(data, null, 2));
+  fs.writeFileSync(EPISODES_FILE, JSON.stringify(data, null, 2));
   process.exit(0);
 });

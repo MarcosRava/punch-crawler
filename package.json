@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.36.0",
-    "cheerio": "^0.16.0"
+    "cheerio": "^0.16.0",
+    "extend": "^1.2.1"
   }
 }

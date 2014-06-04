@@ -57,4 +57,3 @@ A crawler to download your animes from http://punchsub.com using your vip accoun
   node index.js
 </pre>
 
-**Note:** when program stop, data.json will be modified with anime episodes

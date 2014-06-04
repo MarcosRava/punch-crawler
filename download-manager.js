@@ -1,7 +1,7 @@
 var fs = require('fs');
-var data = require('./data');
+var config = require('./config.js');
 
-function download(url, anime, ep, dir, callback) {
+function download(url, anime, ep, dir, data, callback) {
   var spawn = require('child_process').spawn;
   var wgetParams = [ '--directory-prefix=' + dir + anime.name, '--trust-server-names', '--continue', url];
   //wgetParams.push('--limit-rate=50k');
@@ -36,7 +36,7 @@ function download(url, anime, ep, dir, callback) {
     var type = {"Episódio": 'eps', "Ova": 'ovas', "Filme": 'movies'};
     data[anime.id][type[anime.type.trim()]][ep] = true;
     console.log("writing...");
-    fs.writeFileSync('./data.json', JSON.stringify(data, null, 2));
+    fs.writeFileSync(config.episodesFiles, JSON.stringify(data, null, 2));
   }
 }
 
