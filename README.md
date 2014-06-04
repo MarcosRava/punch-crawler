@@ -1,6 +1,6 @@
 #PUNCH Crawler
 
-A crawler to download your animes using your vip account (require wget installed).
+A crawler to download your animes from http://punchsub.com using your vip account (require wget installed).
 
 * continue interrupted downloads
 * download movies, episodes and ovas
@@ -14,14 +14,14 @@ A crawler to download your animes using your vip account (require wget installed
   * punch url: http://punchsub.com/principal#listar/8/episodios/hd/1
   * code: 8
   * data.json:
-          {
-            "8": {
-              "reso": {
-                "eps": "hd", //Episodes resolution,
-                "movies": "hd", //Movies resolution
-              }
-            }
+      {
+        "8": {
+          "reso": {
+            "eps": "hd", //Episodes resolution,
+            "movies": "hd", //Movies resolution
           }
+        }
+      }
 
   * adding Soul Eater:
   * punch url: http://punchsub.com/principal#listar/32/episodios/hd/1
