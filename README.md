@@ -14,39 +14,47 @@ A crawler to download your animes from http://punchsub.com using your vip accoun
   * punch url: http://punchsub.com/principal#listar/8/episodios/hd/1
   * code: 8
   * data.json:
-        {
-          "8": {
-            "reso": {
-              "eps": "hd", //Episodes resolution,
-              "movies": "hd", //Movies resolution
-            }
-          }
+    <pre>
+    {
+      "8": {
+        "reso": {
+          "eps": "hd", //Episodes resolution,
+          "movies": "hd", //Movies resolution
         }
+      }
+    }
+  </pre>
   * adding Soul Eater:
   * punch url: http://punchsub.com/principal#listar/32/episodios/hd/1
   * code: 32
   * data.json:
-          {
-            "8": {
-              "reso": {
-                "eps": "hd", //Episodes resolution,
-                "movies": "hd", //Movies resolution
-              }
-            },
-            "32": {
-              "reso": {
-                "eps": "hd", //Episodes resolution,
-              }
-            }
-          }
+    <pre>
+    {
+      "8": {
+        "reso": {
+          "eps": "hd", //Episodes resolution,
+          "movies": "hd", //Movies resolution
+        }
+      }
+    },
+      "32": {
+         "reso": {
+           "eps": "hd", //Episodes resolution,
+         }
+      }
+  }
+</pre>
 2. adding download directory and punch credentials on config.js
-        module.exports = {
-          login: "fool",
-          password: "****",
-          downloadDir: "/home/Downloads/"
-        };
+<pre>
+    module.exports = {
+      login: "fool",
+      password: "****",
+      downloadDir: "/home/Downloads/"
+    };
+</pre>
 3. run it!
-        node index.js
-
+<pre>
+  node index.js
+</pre>
 
 **Note:** when program stop, data.json will be modified with anime episodes
