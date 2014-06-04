@@ -22,7 +22,6 @@ A crawler to download your animes from http://punchsub.com using your vip accoun
             }
           }
         }
-
   * adding Soul Eater:
   * punch url: http://punchsub.com/principal#listar/32/episodios/hd/1
   * code: 32
