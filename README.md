@@ -54,9 +54,12 @@ http://eternallybored.org/misc/wget/
       downloadDir: "/home/Downloads/"
     };
 </pre>
-3. run it!
+3. install modules
 <pre>
   npm install
+</pre>
+4. run it!
+<pre>
   node index.js
 </pre>
 
