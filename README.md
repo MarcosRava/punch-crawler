@@ -1,6 +1,6 @@
 #PUNCH Crawler
 
-A crawler to download your animes from http://punchsub.com using your vip account (require wget >= 1.15 installed).
+A crawler to download your animes from http://punchsub.com using your vip account (require wget >= 1.15, nodejs >= 0.10 installed).
 
 http://eternallybored.org/misc/wget/
 
@@ -56,6 +56,7 @@ http://eternallybored.org/misc/wget/
 </pre>
 3. run it!
 <pre>
+  npm install
   node index.js
 </pre>
 
