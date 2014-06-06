@@ -1,10 +1,14 @@
 var fs = require('fs');
 var config = require('./config.js');
-
+var path = require('path');
+var newLine = process.platform.indexOf('win') !== -1 ? '\033[0G': '\r';
 function download(url, anime, ep, dir, data, callback) {
   var spawn = require('child_process').spawn;
-  var wgetParams = [ '--directory-prefix=' + dir + anime.name, '--trust-server-names', '--continue', url];
-  //wgetParams.push('--limit-rate=50k');
+  var directory = path.resolve(dir, anime.name);
+  var wgetParams = [ '--directory-prefix=' + directory, '--continue', url];
+  wgetParams.push('--trust-server-names');
+  if (config.limitRate)
+    wgetParams.push('--limit-rate=' + config.limitRate);
   var wget = spawn('wget', wgetParams);
   var util = require('util');
   var length;
@@ -17,7 +21,8 @@ function download(url, anime, ep, dir, data, callback) {
       var indexOfPcent = d.indexOf('%');
       var percent = d.substring(indexOfPcent - 3, indexOfPcent + 1);
       var speed = d.substring(indexOfPcent + 2, indexOfPcent + 7);
-      process.stdout.write(anime.name + ' ' + ep + ' ' + percent + ' ' + speed + '\r');
+      process.stdout.write(anime.name + ' ' + ep + ' ' + percent + ' ' + speed + newLine);
+      //process.stdout.write(d);
       if (percent.trim() === '100%') {
         console.log(anime.name + ' ' + ep + ' ' + percent);
         downloaded(anime, ep);

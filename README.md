@@ -1,6 +1,8 @@
 #PUNCH Crawler
 
-A crawler to download your animes from http://punchsub.com using your vip account (require wget installed).
+A crawler to download your animes from http://punchsub.com using your vip account (require wget >= 1.15 installed).
+
+http://eternallybored.org/misc/wget/
 
 * continue interrupted downloads
 * download movies, episodes and ovas

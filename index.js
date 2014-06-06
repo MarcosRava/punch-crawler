@@ -5,6 +5,7 @@ var config = require('./config.js');
 var queue = [];
 var url = "http://punchsub.com/";
 var request = require('request');
+var jcookie = request.jar();
 var cheerio = require('cheerio');
 var Anime = require('./models/anime.js');
 var login = config.login;
@@ -38,16 +39,16 @@ function getVipLink(episodeIds, callback) {
   for (var i in episodeIds) {
     form.ids.push(episodeIds[i].id);
   }
-  request.post({url: url + 'lista-episodios', json: true, form: form}, function (err, resp, body) {
+  request.post({url: url + 'lista-episodios', json: true, form: form, jar: jcookie}, function (err, resp, body) {
     callback(err, body);
   });
 }
 
 function doLogin(callback) {
-  request = request.defaults({jar: true});
   request.post({
     url: url + 'login',
     json: true,
+    jar: jcookie,
     form: loginForm,
     headers: {
       'Host': 'punchsub.com',
