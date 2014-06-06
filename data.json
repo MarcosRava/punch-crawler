@@ -3,67 +3,11 @@
     "reso": {
       "eps": "hd",
       "movies": "hd"
-    },
-    "name": "One Piece"
+    }
   },
   "32": {
     "reso": {
       "eps": "hd"
-    },
-    "name": "Soul Eater"
-  },
-  "175": {
-    "reso": {
-      "eps": "hd"
-    },
-    "name": "Nisemonogatari"
-  },
-  "226": {
-    "reso": {
-      "eps": "hd"
-    },
-    "name": "Hagure Yuusha no Estetica"
-  },
-  "320": {
-    "reso": {
-      "eps": "hd"
-    },
-    "name": "Nekomonogatari"
-  },
-  "324": {
-    "reso": {
-      "eps": "hd"
-    },
-    "name": "Rozen Maiden (2013)"
-  },
-  "332": {
-    "reso": {
-      "eps": "hd"
-    },
-    "name": "Monogatari Series: Segunda Temporada"
-  },
-  "410": {
-    "reso": {
-      "eps": "fullhd"
-    },
-    "name": "Nobunaga the Fool"
-  },
-  "438": {
-    "reso": {
-      "eps": "fullhd"
-    },
-    "name": "Fairy Tail (2014)"
-  },
-  "452": {
-    "reso": {
-      "eps": "fullhd"
-    },
-    "name": "No Game No Life"
-  },
-  "465": {
-    "reso": {
-      "eps": "hd"
-    },
-    "name": "Soul Eater Not!"
+    }
   }
 }
