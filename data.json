@@ -3,7 +3,8 @@
     "reso": {
       "eps": "hd",
       "movies": "hd"
-    }
+    },
+    "priority": 1
   },
   "32": {
     "reso": {
@@ -43,16 +44,29 @@
   "438": {
     "reso": {
       "eps": "fullhd"
-    }
+    },
+    "priority": 10
   },
   "452": {
     "reso": {
       "eps": "fullhd"
-    }
+    },
+    "priority": 50
   },
   "465": {
     "reso": {
       "eps": "hd"
+    },
+    "priority": 100
+  },
+  "200": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "216": {
+    "reso": {
+      "eps": "fullhd"
     }
   }
 }

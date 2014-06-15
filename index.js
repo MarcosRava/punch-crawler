@@ -73,6 +73,23 @@ function doLoginCallback(err, _data) {
   var type = types[t];
   var resolution = data[animeId].reso[reso[t]];
 
+  var _keys = [];
+
+  for(var k in keys) {
+    var d = data[keys[k]];
+    _keys[k] = {id: keys[k], priority: d.priority} ;
+  }
+
+  _keys = _keys.sort(function(a,b) {
+    if (!a.priority && !b.priority) return 0;
+    if (a.priority && !b.priority) return -1;
+    if (!a.priority && b.priority) return 1;
+    return parseInt(a.priority) - parseInt(b.priority);
+  });
+
+  for(var _k in keys) {
+     keys[_k] = _keys[_k].id;
+  }
   if (!resolution)
     loopManager();
   else
