@@ -4,7 +4,7 @@ var path = require('path');
 var newLine = process.platform.indexOf('win') !== -1 ? '\033[0G': '\r';
 function download(url, anime, ep, dir, data, callback) {
   var spawn = require('child_process').spawn;
-  var directory = path.resolve(dir, anime.name);
+  var directory = path.resolve(dir, anime.name.replace(/[^a-z0-9]/gi, '_'));
   var wgetParams = [ '--directory-prefix=' + directory, '--continue', url];
   wgetParams.push('--trust-server-names');
   if (config.limitRate)
