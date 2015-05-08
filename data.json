@@ -6,6 +6,43 @@
     },
     "priority": 1
   },
+  "517": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "priority": 2
+  },
+  "638": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
+  "634": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "626": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "637": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "397": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
+  "333": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "hd"
+    }
+  },
   "32": {
     "reso": {
       "eps": "hd"
@@ -58,6 +95,11 @@
       "eps": "hd"
     },
     "priority": 100
+  },
+  "472": {
+    "reso": {
+      "eps": "hd"
+    }
   },
   "200": {
     "reso": {

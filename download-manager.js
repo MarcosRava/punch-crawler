@@ -1,8 +1,11 @@
 var fs = require('fs');
 var config = require('./config.js');
 var path = require('path');
+var Q = require('q');
+
 var newLine = process.platform.indexOf('win') !== -1 ? '\033[0G': '\r';
-function download(url, anime, ep, dir, data, callback) {
+function download(url, anime, ep, dir, data) {
+  var deferred = Q.defer();
   var spawn = require('child_process').spawn;
   var directory = path.resolve(dir, anime.name.replace(/[^a-z0-9]/gi, '_'));
   var wgetParams = [ '--directory-prefix=' + directory, '--continue', url];
@@ -33,8 +36,13 @@ function download(url, anime, ep, dir, data, callback) {
       downloaded(anime, ep);
   });
   wget.on('exit', function (code) {
-    callback(code);
     console.log('Child process exited with exit code ' + code);
+    if (code == 0) {
+      deferred.resolve(code);
+    }
+    else {
+      deferred.reject(code);
+    }
   });
 
   function downloaded(anime, ep, code, status) {
@@ -43,6 +51,8 @@ function download(url, anime, ep, dir, data, callback) {
     console.log("writing...");
     fs.writeFileSync(config.episodesFiles, JSON.stringify(data, null, 2));
   }
+
+  return deferred.promise;
 }
 
 module.exports = download;
