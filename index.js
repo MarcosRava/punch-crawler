@@ -3,7 +3,7 @@ var extend = require('extend');
 var fs = require('fs');
 var config = require('./config.js');
 var queue = [];
-var url = "http://punchsub.com/";
+var url = "http://punchsub.net/";
 var request = require('request');
 var jcookie = request.jar();
 var cheerio = require('cheerio');
@@ -51,9 +51,9 @@ function doLogin(callback) {
     jar: jcookie,
     form: loginForm,
     headers: {
-      'Host': 'punchsub.com',
-      'Origin': 'http://punchsub.,com',
-      'Referer': 'http://punchsub.com/principal'
+      'Host': 'punchsub.net',
+      'Origin': 'http://punchsub.net',
+      'Referer': 'http://punchsub.net/principal'
     }
   }, function (err, resp, body) {
     callback(err, body);

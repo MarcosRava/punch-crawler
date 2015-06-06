@@ -6,9 +6,24 @@
     },
     "priority": 1
   },
+  "15": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
   "32": {
     "reso": {
       "eps": "hd"
+    }
+  },
+  "619": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "562": {
+    "reso": {
+      "movies": "sd"
     }
   },
   "175": {
@@ -36,7 +51,47 @@
       "eps": "hd"
     }
   },
+  "534": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "605": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "604": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "600": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "524": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
   "410": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "636": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "633": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "632": {
     "reso": {
       "eps": "fullhd"
     }
