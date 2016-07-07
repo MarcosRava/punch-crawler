@@ -6,6 +6,217 @@
     },
     "priority": 1
   },
+  "680": {
+    "reso": {
+      "movies": "hd"
+    }
+  },
+  "513": {
+    "reso": {
+      "ovas": "sd"
+    }
+  },
+  "399": {
+    "reso": {
+      "ovas": "sd"
+    }
+  },
+  "403": {
+    "reso": {
+      "movies": "hd"
+    }
+  },
+  "602": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "402": {
+    "reso": {
+      "eps": "fullhd",
+      "movies": "hd"
+    }
+  },
+  "279": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "243": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "682": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
+  "794": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "816": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "804": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "793": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "790": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "791": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "855": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "22": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "677": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "849": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "495": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "862": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "781": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "30": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
+  "277": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "659": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "864": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "856": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "865": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "863": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "44": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "801": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "797": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "795": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "777": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "805": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "744": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "657": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "775": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "788": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "786": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "789": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "771": {
+    "reso": {
+      "movies": "fullhd"
+    }
+  },
   "15": {
     "reso": {
       "eps": "sd"
@@ -16,14 +227,56 @@
       "eps": "hd"
     }
   },
+  "670": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "626": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "517": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "676": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "397": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
+  "613": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
   "619": {
     "reso": {
       "eps": "hd"
     }
   },
-  "562": {
+  "725": {
     "reso": {
-      "movies": "sd"
+      "ovas": "fullhd"
+    }
+  },
+  "724": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "fullhd"
+    }
+  },
+  "684": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "hd"
     }
   },
   "175": {
@@ -71,7 +324,17 @@
       "eps": "hd"
     }
   },
+  "619": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
   "524": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "637": {
     "reso": {
       "eps": "hd"
     }
@@ -87,6 +350,16 @@
     }
   },
   "633": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "572": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "634": {
     "reso": {
       "eps": "fullhd"
     }
@@ -120,6 +393,162 @@
     }
   },
   "216": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "672": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "3": {
+    "reso": {
+      "eps": "sd"
+    }
+  },
+  "700": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "708": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "707": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "201": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "705": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "704": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "405": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "327": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "326": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "701": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "655": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "475": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "697": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "690": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "687": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "hd"
+    }
+  },
+  "837": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "844": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "833": {
+    "reso": {
+      "eps": "hd"
+    }
+  },
+  "839": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "840": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "829": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "835": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "838": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "826": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "825": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "742": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "6": {
+    "reso": {
+      "ovas": "fullhd"
+    }
+  },
+  "754": {
+    "reso": {
+      "eps": "fullhd"
+    }
+  },
+  "749": {
     "reso": {
       "eps": "fullhd"
     }

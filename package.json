@@ -12,8 +12,12 @@
   },
   "license": "ISC",
   "dependencies": {
-    "request": "^2.36.0",
+    "bluebird": "^3.4.1",
     "cheerio": "^0.16.0",
-    "extend": "^1.2.1"
+    "extend": "^1.2.1",
+    "promise-chain": "^1.0.3",
+    "q": "^1.4.1",
+    "request": "^2.36.0",
+    "request-promise": "^3.0.0"
   }
 }

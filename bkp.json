@@ -1,0 +1,2740 @@
+{
+  "3": {
+    "reso": {
+      "eps": "sd"
+    },
+    "name": "Queen's Blade: Rurou no Senshi",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "6": {
+    "reso": {
+      "ovas": "fullhd"
+    },
+    "name": "FullMetal Alchemist: Brotherhood",
+    "ovas": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    }
+  },
+  "8": {
+    "reso": {
+      "eps": "hd",
+      "movies": "hd"
+    },
+    "priority": 1,
+    "name": "One Piece",
+    "eps": {
+      "416": true,
+      "417": true,
+      "420": true,
+      "421": true,
+      "424": true,
+      "425": true,
+      "426": true,
+      "427": true,
+      "428": true,
+      "429": true,
+      "430": true,
+      "432": true,
+      "433": true,
+      "435": true,
+      "441": true,
+      "443": true,
+      "444": true,
+      "449": true,
+      "455": true,
+      "456": true,
+      "457": true,
+      "458": true,
+      "459": true,
+      "460": true,
+      "461": true,
+      "462": true,
+      "463": true,
+      "464": true,
+      "465": true,
+      "468": true,
+      "469": true,
+      "471": true,
+      "472": true,
+      "473": true,
+      "474": true,
+      "475": true,
+      "476": true,
+      "477": true,
+      "478": true,
+      "479": true,
+      "480": true,
+      "481": true,
+      "482": true,
+      "484": true,
+      "485": true,
+      "486": true,
+      "487": true,
+      "488": true,
+      "489": true,
+      "490": true,
+      "491": true,
+      "492": true,
+      "493": true,
+      "494": true,
+      "495": true,
+      "496": true,
+      "497": true,
+      "498": true,
+      "499": true,
+      "500": true,
+      "501": true,
+      "502": true,
+      "503": true,
+      "504": true,
+      "505": true,
+      "506": true,
+      "507": true,
+      "508": true,
+      "509": true,
+      "510": true,
+      "511": true,
+      "512": true,
+      "513": true,
+      "514": true,
+      "515": true,
+      "516": true,
+      "517": true,
+      "518": true,
+      "519": true,
+      "520": true,
+      "521": true,
+      "522": true,
+      "523": true,
+      "524": true,
+      "525": true,
+      "526": true,
+      "527": true,
+      "528": true,
+      "529": true,
+      "530": true,
+      "531": true,
+      "532": true,
+      "533": true,
+      "534": true,
+      "535": true,
+      "536": true,
+      "537": true,
+      "538": true,
+      "539": true,
+      "540": true,
+      "541": true,
+      "543": true,
+      "544": true,
+      "545": true,
+      "546": true,
+      "547": true,
+      "548": true,
+      "549": true,
+      "550": true,
+      "551": true,
+      "552": true,
+      "553": true,
+      "554": true,
+      "555": true,
+      "556": true,
+      "557": true,
+      "558": true,
+      "559": true,
+      "560": true,
+      "561": true,
+      "562": true,
+      "563": true,
+      "564": true,
+      "565": true,
+      "566": true,
+      "567": true,
+      "568": true,
+      "569": true,
+      "570": true,
+      "571": true,
+      "572": true,
+      "573": true,
+      "574": true,
+      "575": true,
+      "576": true,
+      "577": true,
+      "578": true,
+      "579": true,
+      "580": true,
+      "581": true,
+      "582": true,
+      "583": true,
+      "584": true,
+      "585": true,
+      "586": true,
+      "587": true,
+      "588": true,
+      "589": true,
+      "591": true,
+      "592": true,
+      "593": true,
+      "594": true,
+      "595": true,
+      "596": true,
+      "597": true,
+      "598": true,
+      "599": true,
+      "600": true,
+      "601": true,
+      "602": true,
+      "603": true,
+      "604": true,
+      "605": true,
+      "606": true,
+      "607": true,
+      "608": true,
+      "609": true,
+      "610": true,
+      "611": true,
+      "612": true,
+      "613": true,
+      "614": true,
+      "615": true,
+      "616": true,
+      "617": true,
+      "618": true,
+      "619": true,
+      "620": true,
+      "621": true,
+      "622": true,
+      "623": true,
+      "624": true,
+      "625": true,
+      "626": true,
+      "627": true,
+      "628": true,
+      "629": true,
+      "630": true,
+      "631": true,
+      "632": true,
+      "633": true,
+      "634": true,
+      "635": true,
+      "636": true,
+      "637": true,
+      "638": true,
+      "639": true,
+      "640": true,
+      "641": true,
+      "642": true,
+      "643": true,
+      "644": true,
+      "645": true,
+      "646": true,
+      "647": true,
+      "648": true,
+      "649": true,
+      "650": true,
+      "651": true,
+      "652": true,
+      "653": true,
+      "654": true,
+      "655": true,
+      "656": true,
+      "657": true,
+      "658": true,
+      "659": true,
+      "660": true,
+      "661": true,
+      "662": true,
+      "663": true,
+      "664": true,
+      "665": true,
+      "666": true,
+      "667": true,
+      "668": true,
+      "669": true,
+      "670": true,
+      "671": true,
+      "672": true,
+      "673": true,
+      "674": true,
+      "675": true,
+      "676": true,
+      "677": true,
+      "678": true,
+      "679": true,
+      "680": true,
+      "681": true,
+      "682": true,
+      "683": true,
+      "684": true,
+      "685": true,
+      "686": true,
+      "687": true,
+      "688": true,
+      "689": true,
+      "690": true,
+      "691": true,
+      "692": true,
+      "693": true,
+      "694": true,
+      "695": true,
+      "696": true,
+      "697": true,
+      "698": true,
+      "699": true,
+      "700": true,
+      "701": true,
+      "702": true,
+      "703": true,
+      "704": true,
+      "705": true,
+      "706": true,
+      "707": true,
+      "708": true,
+      "709": true,
+      "710": true,
+      "711": true,
+      "712": true,
+      "713": true,
+      "714": true,
+      "715": true,
+      "716": true,
+      "717": true,
+      "718": true,
+      "719": true,
+      "720": true,
+      "721": true,
+      "722": true,
+      "723": true,
+      "724": true,
+      "725": true,
+      "726": true,
+      "727": true,
+      "728": true,
+      "729": true,
+      "730": true,
+      "731": true,
+      "732": true,
+      "733": true,
+      "734": true,
+      "735": true,
+      "736": true,
+      "737": true,
+      "738": true,
+      "739": true,
+      "740": true,
+      "741": true,
+      "742": true,
+      "743": true,
+      "744": true,
+      "745": true,
+      "746": true,
+      "747": true,
+      "748": true,
+      "749": true,
+      "750": true
+    },
+    "movies": {
+      "10": true
+    }
+  },
+  "15": {
+    "reso": {
+      "eps": "sd"
+    },
+    "name": "Queen's Blade: Gyokuza o Tsugu Mono",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "22": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Yu Yu Hakusho",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "28": true,
+      "29": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true,
+      "36": true,
+      "37": true,
+      "38": true,
+      "39": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "46": true,
+      "47": true,
+      "48": true,
+      "49": true,
+      "50": true,
+      "51": true,
+      "52": true,
+      "53": true,
+      "54": true,
+      "55": true,
+      "56": true,
+      "57": true,
+      "58": true,
+      "59": true,
+      "60": true,
+      "61": true,
+      "62": true,
+      "63": true,
+      "64": true,
+      "65": true,
+      "66": true,
+      "67": true,
+      "68": true,
+      "69": true,
+      "70": true,
+      "71": true,
+      "72": true,
+      "73": true,
+      "74": true,
+      "75": true,
+      "76": true,
+      "77": true,
+      "78": true,
+      "79": true,
+      "80": true,
+      "81": true,
+      "82": true,
+      "83": true,
+      "84": true,
+      "85": true,
+      "86": true,
+      "87": true,
+      "88": true,
+      "89": true
+    }
+  },
+  "30": {
+    "reso": {
+      "eps": "sd"
+    },
+    "name": "Kekkaishi",
+    "eps": {
+      "1": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "28": true,
+      "29": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true,
+      "36": true,
+      "38": true,
+      "39": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "46": true,
+      "47": true,
+      "48": true,
+      "49": true,
+      "50": true,
+      "51": true,
+      "52": true
+    }
+  },
+  "32": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Soul Eater",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "28": true,
+      "29": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true,
+      "36": true,
+      "37": true,
+      "38": true,
+      "39": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "46": true,
+      "47": true,
+      "48": true,
+      "49": true,
+      "50": true,
+      "51": true
+    }
+  },
+  "44": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Katanagatari",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "175": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Nisemonogatari",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true
+    }
+  },
+  "200": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Fate/Zero (2012)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "201": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Queen`s Blade: Rebellion",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "216": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fate/Stay Night",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true
+    }
+  },
+  "226": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Hagure Yuusha no Estetica",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "243": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "BTOOOM!",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "277": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Chihayafuru 2",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true
+    }
+  },
+  "279": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Cowboy Bebop",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true
+    }
+  },
+  "320": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Nekomonogatari",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    }
+  },
+  "324": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Rozen Maiden (2013)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "326": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Stella Jogakuin Koutouka C3-bu",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "327": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Senki Zesshou Symphogear G",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "332": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Monogatari Series: Segunda Temporada",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true
+    }
+  },
+  "397": {
+    "reso": {
+      "eps": "sd"
+    },
+    "name": "Dragon Quest: Dai no Daibouken (Fly)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true
+    }
+  },
+  "399": {
+    "reso": {
+      "ovas": "sd"
+    },
+    "name": "Shingeki no Kyojin OADs",
+    "ovas": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "402": {
+    "reso": {
+      "eps": "fullhd",
+      "movies": "hd"
+    },
+    "name": "Fate/Stay Night: Unlimited Blade Works",
+    "eps": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    },
+    "movies": {
+      "1": true
+    }
+  },
+  "403": {
+    "reso": {
+      "movies": "hd"
+    },
+    "name": "Steins;Gate: Fuka Ryouiki no Deja vu",
+    "movies": {
+      "1": true
+    }
+  },
+  "405": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Noragami",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "410": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Nobunaga the Fool",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true
+    }
+  },
+  "438": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "priority": 10,
+    "name": "Fairy Tail (2014)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "28": true,
+      "29": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true,
+      "36": true,
+      "37": true,
+      "38": true,
+      "39": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "46": true,
+      "47": true,
+      "48": true,
+      "49": true,
+      "50": true,
+      "51": true,
+      "52": true,
+      "53": true,
+      "54": true,
+      "55": true,
+      "56": true,
+      "57": true,
+      "58": true,
+      "59": true,
+      "60": true,
+      "61": true,
+      "62": true,
+      "63": true,
+      "64": true,
+      "65": true,
+      "66": true,
+      "67": true,
+      "68": true,
+      "69": true,
+      "70": true,
+      "71": true,
+      "72": true,
+      "73": true,
+      "74": true,
+      "75": true,
+      "76": true,
+      "77": true,
+      "78": true,
+      "79": true,
+      "80": true,
+      "81": true,
+      "82": true,
+      "83": true,
+      "84": true,
+      "85": true,
+      "86": true,
+      "87": true,
+      "88": true,
+      "89": true,
+      "90": true,
+      "101": true,
+      "102": true
+    }
+  },
+  "452": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "priority": 50,
+    "name": "No Game No Life",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "465": {
+    "reso": {
+      "eps": "hd"
+    },
+    "priority": 100,
+    "name": "Soul Eater Not!",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "475": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "M3: Sono Kuroki Hagane",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true
+    }
+  },
+  "495": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fate/Kaleid Liner Prisma Illya Zwei!",
+    "eps": {
+      "1": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "9": true,
+      "10": true
+    }
+  },
+  "513": {
+    "reso": {
+      "ovas": "sd"
+    },
+    "name": "Magi: Sinbad no Bouken",
+    "ovas": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "517": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Naruto Shippuuden",
+    "eps": {
+      "378": true,
+      "379": true,
+      "380": true,
+      "381": true,
+      "382": true,
+      "383": true,
+      "384": true,
+      "385": true,
+      "386": true,
+      "387": true,
+      "388": true,
+      "389": true,
+      "390": true,
+      "391": true,
+      "392": true,
+      "393": true,
+      "394": true,
+      "395": true,
+      "396": true,
+      "397": true,
+      "398": true,
+      "399": true,
+      "400": true,
+      "401": true,
+      "402": true,
+      "403": true,
+      "404": true,
+      "405": true,
+      "406": true,
+      "407": true,
+      "408": true,
+      "409": true,
+      "410": true,
+      "411": true,
+      "412": true,
+      "413": true,
+      "414": true,
+      "415": true,
+      "416": true,
+      "417": true,
+      "418": true,
+      "419": true,
+      "420": true,
+      "421": true,
+      "422": true,
+      "423": true,
+      "424": true,
+      "425": true,
+      "426": true,
+      "427": true,
+      "428": true,
+      "429": true,
+      "430": true,
+      "431": true,
+      "432": true,
+      "433": true,
+      "434": true,
+      "435": true,
+      "436": true,
+      "437": true,
+      "438": true,
+      "439": true,
+      "440": true,
+      "441": true,
+      "442": true,
+      "443": true,
+      "444": true,
+      "445": true,
+      "446": true,
+      "447": true,
+      "448": true,
+      "449": true,
+      "450": true,
+      "451": true,
+      "452": true,
+      "453": true,
+      "454": true,
+      "455": true,
+      "456": true,
+      "457": true,
+      "458": true,
+      "459": true,
+      "460": true,
+      "461": true,
+      "462": true,
+      "463": true,
+      "464": true,
+      "465": true,
+      "466": true,
+      "467": true,
+      "468": true
+    }
+  },
+  "524": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Garo: Honoo no Kokuin",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true
+    }
+  },
+  "534": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Grisaia no Kajitsu",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "572": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Shinmai Maou no Testament",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "600": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Owari no Seraph",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "602": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fate/Stay Night: Unlimited Blade Works (2015)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "604": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Grisaia no Rakuen",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true
+    }
+  },
+  "605": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Grisaia no Meikyuu",
+    "eps": {
+      "1": true
+    }
+  },
+  "608": {
+    "reso": {
+      "movies": "hd"
+    }
+  },
+  "613": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Shokugeki no Souma",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true
+    }
+  },
+  "619": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Kekkai Sensen",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "626": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Gintama (2015)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "28": true,
+      "29": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true,
+      "36": true,
+      "37": true,
+      "38": true,
+      "39": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "46": true,
+      "47": true,
+      "48": true,
+      "49": true,
+      "50": true,
+      "51": true
+    }
+  },
+  "632": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Etotama: Eto Tamashii",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "633": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "PUNCH Line",
+    "eps": {
+      "2": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "634": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Saint Seiya: Soul of Gold",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "636": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Shinmai Maou no Testament (BD)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "637": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "GARO: Gold Storm",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true
+    }
+  },
+  "655": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Senki Zesshou Symphogear GX",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "657": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Ushio to Tora (2015)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true
+    }
+  },
+  "659": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Chaos Dragon: Sekiryuu Seneki",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "670": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Death Note (2015)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true
+    }
+  },
+  "672": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Gakkou Gurashi!",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "676": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "GOD EATER",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "677": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fate/Kaleid Liner Prisma Illya Zwei Herz!",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true
+    }
+  },
+  "680": {
+    "reso": {
+      "movies": "hd"
+    },
+    "name": "Shingeki no Kyojin (2015) - Live Action",
+    "movies": {
+      "1": true
+    }
+  },
+  "682": {
+    "reso": {
+      "eps": "sd"
+    },
+    "name": "Tenkuu Senki Shurato",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "19": true,
+      "20": true,
+      "21": true
+    }
+  },
+  "684": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "hd"
+    },
+    "name": "One PUNCH Man",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    },
+    "ovas": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "687": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "hd"
+    },
+    "name": "Noragami Aragoto",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "ovas": {
+      "1": true
+    }
+  },
+  "690": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "K: Return of Kings",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "697": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Owari no Seraph: Nagoya Kessen-hen",
+    "eps": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "700": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Shingeki! Kyojin Chuugakkou",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "701": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Owarimonogatari",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "704": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Concrete Revolutio: Choujin Gensou",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "705": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Diabolik Lovers More,Blood",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "707": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Neon Genesis Evangelion",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true
+    }
+  },
+  "708": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai BD",
+    "eps": {
+      "1": true,
+      "2": true
+    }
+  },
+  "724": {
+    "reso": {
+      "eps": "hd",
+      "ovas": "fullhd"
+    },
+    "name": "Valkyrie Drive: Mermaid",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "725": {
+    "reso": {
+      "ovas": "fullhd"
+    },
+    "name": "Fate/Stay Night: Unlimited Blade Works - Sunny Day",
+    "ovas": {
+      "1": true
+    }
+  },
+  "742": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Boku dake ga Inai Machi",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "744": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Norn9: Norn+Nonet",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "749": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Oshiete! Galko-chan",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "754": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fairy Tail Zero",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true
+    }
+  },
+  "771": {
+    "reso": {
+      "movies": "fullhd"
+    },
+    "name": "Glass no Hana to Kowasu Sekai",
+    "movies": {
+      "1": true
+    }
+  },
+  "775": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Brotherhood: Final Fantasy XV",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "777": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Ushio to Tora 2nd Season",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "781": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Mayoiga",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "786": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Endride",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true
+    }
+  },
+  "788": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Boku no Hero Academia",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "789": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Kuma Miko",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "790": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Re:Zero Kara Hajimeru Isekai Seikatsu",
+    "eps": {
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": true,
+      "1.1": true,
+      "1.2": true
+    }
+  },
+  "791": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Bishoujo Senshi Sailor Moon Crystal S3",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "793": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Hundred",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "794": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Seisen Cerberus: Ryuukoku no Fatalites",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "795": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Joker Game",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "797": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Sousei no Onmyouji",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true,
+      "15": true
+    }
+  },
+  "801": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Onigiri",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    }
+  },
+  "804": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Koutetsujou no Kabaneri",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    }
+  },
+  "805": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Concrete Revolutio: Choujin Gensou - The Last Song",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true
+    }
+  },
+  "816": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Magi: Sinbad no Bouken (TV)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "10": true,
+      "11": true,
+      "12.13": true
+    }
+  },
+  "825": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Shinmai Maou no Testament Burst (BD)",
+    "eps": {
+      "1": true,
+      "2": true
+    }
+  },
+  "826": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Berserk (2016)",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    }
+  },
+  "829": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Shokugeki no Souma: Ni no Sara",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    }
+  },
+  "833": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Rewrite",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    }
+  },
+  "835": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Orange",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "837": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Tales of Zestiria the X",
+    "eps": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "838": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fukigen na Mononokean",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "839": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Amaama to Inazuma",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "840": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Taboo Tattoo",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "844": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Servamp",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "849": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Fate/kaleid liner Prisma Illya 3rei!!",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "855": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "91 Days",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "856": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi",
+    "eps": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "862": {
+    "reso": {
+      "eps": "fullhd"
+    },
+    "name": "Mob Psycho 100",
+    "eps": {
+      "1": true,
+      "2": true
+    }
+  },
+  "863": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+    "eps": {
+      "1": true,
+      "2": true
+    }
+  },
+  "864": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Saiki Kusuo no Psi-nan",
+    "eps": {
+      "1": true,
+      "2": true
+    }
+  },
+  "865": {
+    "reso": {
+      "eps": "hd"
+    },
+    "name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "eps": {
+      "1": true,
+      "2": true
+    }
+  }
+}
